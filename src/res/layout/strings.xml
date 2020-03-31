@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Codeathon</string>
+    <string name="T">Scan Your Finger</string>
+    <string name="b2">verify</string>
+    <string name="T3"></string>
+    <string name="t2">Ward number:1</string>
+    <string name="t7">Constituency number:24</string>
+    <string name="t6">Details:
+     Aadhar number:2053 1287 9269
+     Name : Nalabothu.Bhavya Sri
+     Date of birth:06-06-2000
+     Address:4-78,rudravaram,muppalla(m),guntur(dt) </string>
+    <string name="t8">AADHAR:</string>
+    <string name="T7">Party Name</string>
+    <string name="T8">Symbol</string>
+    <string name="T9">Cast</string>
+    <string name="t3">ABC</string>
+    <string name="t4">PQR</string>
+    <string name="t5">XYZ</string>
+    <string name="b3">Vote</string>
+    <string name="b4">Vote</string>
+    <string name="b5">Vote</string>
+    <string name="b7"></string>
+    <string name="b8"></string>
+    <string name="b9"></string>
+</resources>
